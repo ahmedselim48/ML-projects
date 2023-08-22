@@ -1,2 +1,4 @@
-# Car-Price-Prediction
-Learn Machine Learning by Projects 
+# Learn Machine Learning by Projects 
+Car-Price-Prediction
+ Diabetes prediction
+ 
